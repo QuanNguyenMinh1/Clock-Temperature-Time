@@ -1,0 +1,4 @@
+../Core/Src/RTC.c:8:9:Demical2BCD	16	static
+../Core/Src/RTC.c:13:9:BCD2Demical	16	static
+../Core/Src/RTC.c:18:6:RTC_WriteTime	32	static
+../Core/Src/RTC.c:32:6:RTC_ReadTime	40	static
